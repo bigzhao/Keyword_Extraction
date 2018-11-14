@@ -21,6 +21,7 @@
 - lgb_predict.py：预测并输出结果的脚本。需要train_df_v7.csv和test_df_v7.csv。
 - train_df_v7.csv，test_df_v7.csv：Get_Feature.ipynb 跑出来的结果，notebook有详细特征说明
 - word2vec模型下载地址：https://pan.baidu.com/s/1krH0ThIqvldmF5gfOZ6s7A 提取码：tw0m。
+- doc2vec模型下载地址：链接：https://pan.baidu.com/s/17ZYAbTeqsXXq-hE3z3QqmA 提取码：0ciw.
 
 ## 运行说明
 1. 运行Get_Feature.ipynb获取train_df_v7.csv和test_df_v7.csv.
